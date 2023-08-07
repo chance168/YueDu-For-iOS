@@ -7,5 +7,5 @@
 6. 如果安装的书源很多，搜索需要很多时间，可以设置搜索范围进行搜索，如果您已经对书源分组，搜索的时候可以选择组作为搜索范围。
 ---
 
-![screenshoot](https://github.com/chance168/YueDu-For-iOS/blob/main/screenshoot.png)
+![screenshoot](https://github.com/chance168/YueDu-For-iOS/blob/master/screenshoot.png)
 
