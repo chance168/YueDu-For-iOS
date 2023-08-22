@@ -1,5 +1,6 @@
 # 支持【Legadu阅读书源】的iOS App
-<p>当前最新版：2.3.0</p>
+<p>当前最新版：2.3.0（QYReader.ipa）</p>
+<p>文件：QYReader.ipa</p>
 <p>最新版地址：<a href="https://raw.githubusercontent.com/chance168/YueDu-For-iOS/master/QYReader.ipa">点击这里</a></p>
 1. 提供ipa文件给有办法自签的朋友体验。
 2. 仅支持【安卓阅读App】的书源，书源自己找，App只是一个工具，不提供任何内容。
